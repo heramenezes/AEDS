@@ -1,5 +1,5 @@
 ## O que é esse repositório
 
-Repositório de projetos em linguagem C da disciplina AEDS
+Repositório de projetos da disciplina AEDS
 
 ---
