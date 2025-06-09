@@ -1,4 +1,4 @@
-## O que é esse repositório
+## O que é 
 
 Repositório de projetos da disciplina AEDS
 
